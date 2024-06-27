@@ -28,8 +28,7 @@ Technologies Used
 * Switching Themes: Go to the Settings screen and toggle the switch to change between light and dark themes.
 
 ## Screenshot
-
-- ![Screenshot](https://github.com/B/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331944.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331960.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331966.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331971.png)
+- ![Screenshot](https://github.com/Bismark-Darfour/rn-assignment5-11286009/blob/main/CashApp/assets/screenshot1.png)
+- ![Screenshot](https://github.com/Bismark-Darfour/rn-assignment5-11286009/blob/main/CashApp/assets/screenshot2.png)
+- ![Screenshot](https://github.com/Bismark-Darfour/rn-assignment5-11286009/blob/main/CashApp/assets/screenshot3.png)
+- ![Screenshot](https://github.com/Bismark-Darfour/rn-assignment5-11286009/blob/main/CashApp/assets/screenshot4.png)
